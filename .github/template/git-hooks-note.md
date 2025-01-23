@@ -1,6 +1,6 @@
-The git hooks are available for *azure-cli* and *azure-cli-extensions* repos. They could help you run required checks before creating the PR. 
+The git hooks are available for **azure-cli** and **azure-cli-extensions** repos. They could help you run required checks before creating the PR. 
 
-Please sync the latest code with latest dev branch (for *azure-cli*) or main branch (for *azure-cli-extensions*). 
+Please sync the latest code with latest dev branch (for **azure-cli**) or main branch (for **azure-cli-extensions**). 
 After that please run the following commands to enable git hooks:
 
 ```bash
